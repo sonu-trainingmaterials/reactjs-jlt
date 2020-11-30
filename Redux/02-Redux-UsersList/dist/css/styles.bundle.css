@@ -1,0 +1,12 @@
+.error-message { 
+    display: block;
+    color:red;
+ }
+ .noerror{
+     display: none;
+ }
+
+ .image-thumbnail{
+     max-width: 250px;
+     max-height: 225px;
+ }

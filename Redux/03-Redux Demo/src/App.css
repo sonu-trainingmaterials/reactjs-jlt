@@ -1,0 +1,9 @@
+.thumbnail-image{
+    max-width: 250px;
+    max-height: 180px;
+    min-height: 180px;
+}
+
+.thumbnail-center{
+    text-align: center
+}
